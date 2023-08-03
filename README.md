@@ -1,4 +1,12 @@
-<img height="180" src="https://imjonas.nl/csskit/csskit.svg" align="center">
+
+<p align="center">
+  <a href="https://imjonas.nl/csskt" target="_blank" rel="noopener noreferrer">
+    <img height="180" src="https://imjonas.nl/csskit/csskit.svg" align="center">
+  </a>
+</p>
+
+<h1 align="center"/>CSSKit</h1>
+
 
 <p>
     CSSKit is a small (less than 4kb) CSS framework that follows the iOS and human interface guidelines and colors, it
