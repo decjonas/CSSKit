@@ -106,6 +106,7 @@ h6 {
 a {
   color: var(--p);
   text-decoration: none;
+
   &:hover {
     text-decoration: underline;
   }
@@ -238,25 +239,27 @@ summary {
   outline: none;
   list-style: none;
   position: relative;
+
   &::-webkit-details-marker {
     display:none;
   }
-}
 
-// Chevron icon for open details elements 
-summary::after {
-  content: '';
-  background: var(--c) center no-repeat;
-  width: 1rem;
-  height: 100%;
-  position: absolute;
-  right: 0;
-  transition: transform .4s ease;
+  // Chevron icon for open details elements 
+  &::after {
+    content: '';
+    background: var(--c) center no-repeat;
+    width: 1rem;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    transition: transform .4s ease;
+  }
 }
 
 // Styles for open details elements 
 details[open] summary {
   margin-bottom: .5rem;
+
   &::after {
     transform: rotate(.25turn);
   }
