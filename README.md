@@ -1,3 +1,5 @@
+<img height="180" src="https://imjonas.nl/csskit/csskit.svg" alt="">
+
 <p>
     CSSKit is a small (less than 4kb) CSS framework that follows the iOS and human interface guidelines and colors, it
     automatically switches to dark/light mode based on the device appearance settings.
