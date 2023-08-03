@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://imjonas.nl/csskt" target="_blank" rel="noopener noreferrer">
+  <a href="https://imjonas.nl/csskit" target="_blank" rel="noopener noreferrer">
     <img height="180" src="https://imjonas.nl/csskit/csskit.svg" align="center">
   </a>
 </p>
