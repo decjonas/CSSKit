@@ -22,6 +22,6 @@
     Usage is really simple, all you have to do is include this line in the <code>&lt;head&gt;</code> of your HTML
     document.
 
-  <pre><code>&lt;link rel="stylesheet" href="https://imjonas.nl/kit.css"&gt;</code></pre>
+  <code>&lt;link rel="stylesheet" href="https://imjonas.nl/kit.css"&gt;</code>
 
   </p>
